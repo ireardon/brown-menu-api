@@ -1,0 +1,13 @@
+{
+  "name": "brown-menu-api",
+  "description": "",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ireardon/brown-menu-api.git"
+  },
+  "dependencies": {
+    "express": "^4.11.1",
+    "jsdom": "^3.0.3"
+  }
+}
